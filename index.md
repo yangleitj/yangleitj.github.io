@@ -1,3 +1,5 @@
+![yangleitj](http://yangleitj.github.io/yangleitj.jpg)
+
 Alvin獨財者
 
 ~~~
