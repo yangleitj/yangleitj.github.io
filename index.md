@@ -7,9 +7,13 @@ Alvin獨財者
 
 [yangleitj.com](http://yangleitj.com)
 
-[ZeroNet](http://127.0.0.1:43110/yangleitj.bit)
+[明网ZeroNet](http://www.zerogate.tk/yangleitj.bit)
 
-[ZeroMe](http://127.0.0.1:43110/Me.Mkg20001.bit/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n/yangleitjbit@zeroid.bit)
+[暗网ZeroNet](http://127.0.0.1:43110/yangleitj.bit)
+
+[明网ZeroMe](http://www.zerogate.tk/Me.Mkg20001.bit/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n/yangleitjbit@zeroid.bit)
+
+[暗网ZeroMe](http://127.0.0.1:43110/Me.Mkg20001.bit/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n/yangleitjbit@zeroid.bit)
 
 [Keybase](http://keybase.io/yangleitj)
 
