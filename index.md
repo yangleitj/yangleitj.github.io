@@ -5,6 +5,8 @@ Alvin獨財者
 大志戏功名, 海斗量福祸, 论到囊中羞涩时, 怒指乾坤错.
 ~~~
 
+[7*24电报在线Telegram](http://t.me/yangleitj)
+
 [yangleitj.com](http://yangleitj.com)
 
 [明网ZeroNet](http://www.zerogate.tk/yangleitj.bit)
@@ -18,8 +20,6 @@ Alvin獨財者
 [Keybase](http://keybase.io/yangleitj)
 
 [GitHub](http://github.com/yangleitj)
-
-[Telegram](http://t.me/yangleitj)
 
 [GPG Fingerprint: 6183 839E 9D6F E963 3AF3  88F3 DCBA 7F25 AB41 6F8F](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x6183839E9D6FE9633AF388F3DCBA7F25AB416F8F) 
 
