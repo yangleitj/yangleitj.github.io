@@ -1,4 +1,4 @@
-![image](https://github.com/yangleitj/yangleitj.github.io/blob/master/yangleitj200.png)
+![image](https://github.com/yangleitj/yangleitj.github.io/blob/master/yangleitj200.jpg)
 
 Alvin獨財者 0xAB416F8F
 
