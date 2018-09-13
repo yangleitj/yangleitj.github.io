@@ -9,9 +9,9 @@ Alvin獨財者 0xAB416F8F
 
 [yangleitj.com](http://yangleitj.com)
 
-[明网ZeroNet](http://www.zerogate.tk/yangleitj.bit)
+[明网ZeroBlog](http://www.zerogate.tk/yangleitj.bit)
 
-[暗网ZeroNet](http://127.0.0.1:43110/yangleitj.bit)
+[暗网ZeroBlog](http://127.0.0.1:43110/yangleitj.bit)
 
 [明网ZeroMe](http://www.zerogate.tk/Me.Mkg20001.bit/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n/yangleitjbit@zeroid.bit)
 
